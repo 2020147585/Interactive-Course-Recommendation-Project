@@ -44,3 +44,7 @@ Logic Implementation: Built a timetable component with an automated time-conflic
 Problem Solving & Leadership (문제 제기 및 해결):
 Actively identified and addressed critical logic issues during development, such as optimizing the mileage distribution algorithm.
 (프로젝트 진행 중 "마일리지 분배 알고리즘"의 논리적 오류를 찾아내고 수정 방향을 제기하는 등 시스템의 완성도를 높였습니다.)
+
+---
+⚠️ **Notice:** The source code is kept **Private** to respect the privacy and intellectual property of the collaborative team. This repository is intended for portfolio and demonstration purposes only.
+(참고: 팀의 프라이버시 보호를 위해 소스 코드는 비공개로 관리하며, 본 레포지토리는 포트폴리오 및 데모 확인용으로만 운영됩니다.)
